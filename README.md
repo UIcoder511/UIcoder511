@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UIcoder511
 - 👀 I’m interested in Full-stack Software Development
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning NextJS, react-spring
 
 
 <!---
