@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @UIcoder511
-- 👀 I’m interested in Full-stack Software Development
-- 🌱 I’m currently learning NextJS, react-spring
+- 👋 Hi, I’m Umang Patel, expeirenced in UI development using ReactJS 
+- 👀 Interested in Full-stack Software Development
+- 🌱 Currently CS grad student @Concordia University 
 
 
 <!---
