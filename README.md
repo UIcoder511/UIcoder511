@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Umang Patel, experienced in UI development using ReactJS 
-- 👀 Interested in Full-stack Software Development
-- 🌱 Currently CS grad student @Concordia University
-- 🗺️ Exploring Micro-frontends, NextJS, Docker and AWS
+👋 Hi, I’m Umang Patel, experienced in UI development using ReactJS 
+👀 Interested in Full-stack Software Development
+🌱 Currently CS grad student @Concordia University
+🗺️ Exploring Micro-frontends, NextJS, Docker and AWS
 
 
 <!---
